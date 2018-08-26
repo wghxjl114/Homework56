@@ -1,0 +1,15 @@
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\Ch13CardLib\obj\Debug\Ch13CardLib.csprojResolveAssemblyReference.cache
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+F:\C#程序\KarliCards GUI\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+F:\C#程序\KarliCards GUI\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+F:\C#程序\KarliCards GUI\Ch13CardLib\obj\Debug\Ch13CardLib.csprojResolveAssemblyReference.cache
+F:\C#程序\KarliCards GUI\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+F:\C#程序\KarliCards GUI\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
+F:\C#程序\myCards\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+F:\C#程序\myCards\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+F:\C#程序\myCards\Ch13CardLib\obj\Debug\Ch13CardLib.csprojResolveAssemblyReference.cache
+F:\C#程序\myCards\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+F:\C#程序\myCards\Ch13CardLib\obj\Debug\Ch13CardLib.pdb

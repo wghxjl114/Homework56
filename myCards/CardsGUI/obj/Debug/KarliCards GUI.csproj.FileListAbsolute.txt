@@ -1,0 +1,34 @@
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\bin\Debug\KarliCards Gui.exe.config
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\bin\Debug\KarliCards Gui.exe
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\bin\Debug\KarliCards Gui.pdb
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\bin\Debug\Ch13CardLib.dll
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\bin\Debug\Ch13CardLib.pdb
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\KarliCards GUI.csprojResolveAssemblyReference.cache
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\About.g.cs
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\CardControl.g.cs
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\CardsInHandControl.g.cs
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\GameClient.g.cs
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\GameDecksControl.g.cs
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\MainWindow.g.cs
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\Options.g.cs
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\StartGame.g.cs
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\App.g.cs
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\KarliCards Gui_MarkupCompile.cache
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\KarliCards Gui_MarkupCompile.lref
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\About.baml
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\CardControl.baml
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\CardsInHandControl.baml
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\GameClient.baml
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\GameDecksControl.baml
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\MainWindow.baml
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\Options.baml
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\StartGame.baml
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\KarliCards Gui.g.resources
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\KarliCards_Gui.Properties.Resources.resources
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\KarliCards GUI.csproj.GenerateResource.Cache
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\KarliCards Gui.exe
+C:\Users\姚福星\Desktop\Ch15 source\KarliCards GUI\KarliCards GUI\obj\Debug\KarliCards Gui.pdb
+F:\C#程序\KarliCards GUI\KarliCards GUI\bin\Debug\KarliCards Gui.exe.config
+F:\C#程序\KarliCards GUI\KarliCards GUI\obj\Debug\KarliCards Gui.exe
+F:\C#程序\KarliCards GUI\KarliCards GUI\obj\Debug\KarliCards Gui.pdb
